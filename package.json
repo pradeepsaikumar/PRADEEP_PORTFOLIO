@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
-    "@react-three/drei": "9.92.0",
-    "@react-three/fiber": "9.7.4",
+    "@react-three/drei": "*",
+    "@react-three/fiber": "*",
     "@vitejs/plugin-react": "^4.3.2",
     "autoprefixer": "^10.4.20",
     "framer-motion": "^11.11.9",
