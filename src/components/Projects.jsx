@@ -50,8 +50,8 @@ export default function Projects() {
       fallback:
         "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1000&q=80",
       tech: ["React", "Tailwind", "Framer Motion"],
-      github: "https://github.com/pradeepsaikumar/portfolio",
-      demo: "https://your-portfolio-demo-link.com",
+      github: "https://github.com/pradeepsaikumar/PRADEEP_PORTFOLIO",
+      demo: "https://pradeep-port.onrender.com/",
       category: "Web",
     },
     {
