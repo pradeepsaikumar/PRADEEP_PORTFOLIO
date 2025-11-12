@@ -14,7 +14,6 @@
     "@react-three/fiber": "^9.3.4",
     "@vitejs/plugin-react": "^4.3.2",
     "autoprefixer": "^10.4.20",
-    "bootstrap": "^5.3.3",  <-- **This is the added dependency**
     "framer-motion": "^11.11.9",
     "lucide-react": "^0.453.0",
     "postcss": "^8.4.49",
