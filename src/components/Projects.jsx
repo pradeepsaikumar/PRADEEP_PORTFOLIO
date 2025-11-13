@@ -62,8 +62,8 @@ export default function Projects() {
       fallback:
         "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1000&q=80",
       tech: ["HTML", "CSS", "Bootstrap", "JavaScript"],
-      github: "https://github.com/pradeepsaikumar/Meghana_engineering_works",
-      demo: "https://meghana-engineering-works.vercel.app/",
+      github: "https://github.com/pradeepsaikumar/Meghana_engineering_work",
+      demo: "https://meghana-engineering-work1.onrender.com/",
       category: "Business",
     },
   ];
